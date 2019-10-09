@@ -35,15 +35,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="51.053909"
-     inkscape:cy="324.11331"
+     inkscape:zoom="8"
+     inkscape:cx="47.934901"
+     inkscape:cy="371.40453"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer16"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
-     inkscape:window-x="960"
+     inkscape:window-x="2880"
      inkscape:window-y="27"
      inkscape:window-maximized="0" />
   <metadata
@@ -1210,6 +1210,172 @@
                x="40.935467"
                id="tspan4235"
                sodipodi:role="line">♻ </tspan></text>
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer12"
+         inkscape:label="hacking"
+         style="display:none">
+        <g
+           style="display:inline;enable-background:new"
+           id="g4894"
+           transform="matrix(0.36769388,0,0,0.36769388,-4.6093063,-5.0113273)">
+          <g
+             transform="translate(113.92208,-21.892614)"
+             id="g7867"
+             style="display:inline;fill:#000000;enable-background:new">
+            <rect
+               ry="10.240001"
+               style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+               id="rect36536"
+               width="25.272779"
+               height="25.272779"
+               x="-80.44503"
+               y="56.485741"
+               rx="10.240001"
+               inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t10.png"
+               inkscape:export-xdpi="375.63586"
+               inkscape:export-ydpi="375.63586" />
+            <text
+               xml:space="preserve"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.92104149px;line-height:18.70065117px;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06666672;enable-background:new"
+               x="-67.80864"
+               y="78.444435"
+               id="text37440"><tspan
+                 sodipodi:role="line"
+                 id="tspan37438"
+                 x="-67.80864"
+                 y="78.444435"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:28.44444466px;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.06666672">☠</tspan></text>
+          </g>
+          <g
+             transform="translate(0.09821244,0.2221184)"
+             id="g4882" />
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer13"
+         inkscape:label="symbolism"
+         style="display:none">
+        <g
+           style="display:inline;enable-background:new"
+           inkscape:export-ydpi="375.67999"
+           inkscape:export-xdpi="375.67999"
+           inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/s1.png"
+           transform="matrix(0.37712849,0,0,0.37712849,-118.77566,-294.04065)"
+           id="g7923-2">
+          <rect
+             ry="10.808888"
+             rx="10.808888"
+             y="799.4903"
+             x="335.3649"
+             height="25.272779"
+             width="25.272779"
+             id="rect3952-3-7-1-6-9"
+             style="fill:#ffc900;fill-opacity:1;stroke:none;stroke-width:1.06666672" />
+          <text
+             id="text4744-6-6-2-87-1"
+             y="819.1106"
+             x="347.61133"
+             style="font-style:normal;font-weight:normal;font-size:20.33267212px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06666672"
+             xml:space="preserve"><tspan
+               style="font-weight:bold;font-size:19.34222221px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle;stroke-width:1.06666672"
+               y="819.1106"
+               x="347.61133"
+               id="tspan4746-7-1-8-9-2"
+               sodipodi:role="line">?</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="8.8198938"
+           y="-13.333581"
+           id="text1492"><tspan
+             sodipodi:role="line"
+             id="tspan1494"
+             x="8.8198938"
+             y="-10.212324" /></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="12.160764"
+           y="-14.536294"
+           id="text1498"><tspan
+             sodipodi:role="line"
+             id="tspan1496"
+             x="12.160764"
+             y="-11.415037"
+             style="stroke-width:0.26458332" /></text>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer14"
+         inkscape:label="method"
+         style="display:none" />
+      <g
+         inkscape:groupmode="layer"
+         id="layer15"
+         inkscape:label="psychiatrist"
+         style="display:none">
+        <g
+           transform="matrix(1.5348387,0,0,1.5348956,-8.8748706,18.154361)"
+           style="display:inline"
+           id="g1595">
+          <rect
+             style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.26096317"
+             id="rect3952-3-5-2-83"
+             width="6.1830602"
+             height="6.1830602"
+             x="10.799096"
+             y="-6.9344864"
+             rx="2.6444263"
+             ry="2.6444263" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:4.9744482px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26096317"
+             x="13.889471"
+             y="-2.2844489"
+             id="text4744-6-3-1-0"><tspan
+               sodipodi:role="line"
+               id="tspan4746-7-5-5-1"
+               x="13.889471"
+               y="-2.2844489"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.73213196px;font-family:Symbola;-inkscape-font-specification:'Symbola Bold';text-align:center;text-anchor:middle;fill:#ff00ff;stroke-width:0.26096317">Ψ</tspan></text>
+        </g>
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer16"
+         inkscape:label="medicine">
+        <g
+           transform="matrix(0.39678787,0,0,0.39678787,-8.3991944,-9.7001268)"
+           style="display:inline;enable-background:new"
+           id="g1621">
+          <rect
+             inkscape:export-ydpi="375.63586"
+             inkscape:export-xdpi="375.63586"
+             inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/t10.png"
+             rx="9.5279827"
+             y="43.777718"
+             x="40.573807"
+             height="23.515486"
+             width="23.515486"
+             id="rect9018"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.99249816"
+             ry="9.5279827" />
+          <text
+             id="text10123"
+             y="63.494343"
+             x="43.183895"
+             style="font-style:normal;font-weight:normal;font-size:39.69992447px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.99249816"
+             xml:space="preserve"><tspan
+               style="font-weight:bold;font-size:21.83495903px;-inkscape-font-specification:'Sans Bold';stroke-width:0.99249816"
+               y="63.494343"
+               x="43.183895"
+               id="tspan10125"
+               sodipodi:role="line">✚</tspan></text>
         </g>
       </g>
       <g
