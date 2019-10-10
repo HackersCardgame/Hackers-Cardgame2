@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="a13.svg"
+   sodipodi:docname="a12.svg"
    enable-background="new">
   <defs
      id="defs2">
@@ -38,6 +38,32 @@
          in2="BackgroundImage"
          id="feBlend1980" />
     </filter>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4216"
+         d="M -10.666667,0 -14.933333,4.2666667 0,0 -14.933333,-4.2666667 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker14925"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path14923"
+         d="M -10.666667,0 -14.933333,4.2666667 0,0 -14.933333,-4.2666667 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:0.85333335pt" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -47,10 +73,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="157.62681"
-     inkscape:cy="176.5448"
+     inkscape:cx="144.09668"
+     inkscape:cy="206.39642"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -133,15 +159,21 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara12722">Hierachical Systems tend to lack Moral. Most Compynies have hierarchical Structure often they abuse small left wing people in the lowest rank to make the customers think that the company and its management is good. In case a Whistleblower would find out about the dark management the abuse the young people as punching balls. Maybe played with a14</flowPara><flowPara
+         id="flowPara12841">A <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#0000ff"
+   id="flowSpan15456">System</flowSpan> is made out of <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="flowSpan15462">Elements [E]</flowSpan> or several Subsystems ( = abstracted an Elemnt too). The Elements have relations (<flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#008000"
+   id="flowSpan15580">Relations [R]</flowSpan>) and the relations have (German: <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000"
+   id="flowSpan15466">Konditionierende [K]</flowSpan>) that describes how teh Relations have to be and could for example filter some Selectors / Keywords from Languages you dont know eg. the Law or the Bible or the Koran(?) or Karl Marx &quot;Das Kapital&quot; could be such &quot;Konditioniernde&quot; (German)</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara12837" /><flowPara
+         id="flowPara15574">This helps to undestand the big picture, Sozial-, Mechanical-, Biological-, Computer-Systemes oder Soaftware.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara12839" /><flowPara
+         id="flowPara15576"></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara12843" /><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara12841">The Sad thing is, that this is business as usual</flowPara></flowRoot>    <text
+         id="flowPara15586">https://de.wikipedia.org/wiki/Soziale_Systeme_(1984)</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
@@ -174,7 +206,7 @@
          x="24.321527"
          y="57.137398"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.26458332"
-         id="tspan3376">Good</tspan></text>
+         id="tspan3376">Niklas Luhmann</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -185,7 +217,7 @@
          id="tspan3354-1"
          x="57.402966"
          y="57.300941"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.26458332">???</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.26458332">~1914</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -217,232 +249,302 @@
          inkscape:export-ydpi="359.29999" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         x="33.718422"
-         y="25.656742"
-         id="text12"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         x="40.142647"
+         y="48.622711"
+         id="text2985-3"><tspan
            sodipodi:role="line"
-           id="tspan10"
-           x="33.718422"
-           y="25.656742"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889">♛</tspan></text>
+           id="tspan2987-6"
+           x="40.142647"
+           y="48.622711"
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.12318163">E</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         x="33.720322"
-         y="37.965073"
-         id="text16"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         x="55.354942"
+         y="33.859093"
+         id="text2985-7"><tspan
            sodipodi:role="line"
-           id="tspan14"
-           x="33.720322"
-           y="37.965073"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889">♜</tspan></text>
+           id="tspan2987-5"
+           x="55.354942"
+           y="33.859093"
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.12318163">E</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         x="33.720322"
-         y="37.965073"
-         id="text20"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         x="62.340153"
+         y="35.256142"
+         id="text2985-3-7"><tspan
            sodipodi:role="line"
-           id="tspan18"
-           x="33.720322"
-           y="37.965073"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889">♜</tspan></text>
+           id="tspan2987-6-0"
+           x="62.340153"
+           y="35.256142"
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.12318163">E</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         x="33.720322"
-         y="50.775425"
-         id="text24"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         x="57.101246"
+         y="37.700962"
+         id="text2985-3-9"><tspan
            sodipodi:role="line"
-           id="tspan22"
-           x="33.720322"
-           y="50.775425"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889">♜</tspan></text>
+           id="tspan2987-6-3"
+           x="57.101246"
+           y="37.700962"
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.12318163">E</tspan></text>
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         x="38.766895"
-         y="37.965073"
-         id="text28"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
-           sodipodi:role="line"
-           id="tspan26"
-           x="38.766895"
-           y="37.965073"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889">♜</tspan></text>
+         id="text2985"
+         y="28.451128"
+         x="29.730371"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.12318163"
+           y="28.451128"
+           x="29.730371"
+           id="tspan2987"
+           sodipodi:role="line">E<tspan
+   style="font-size:1.92166042px;baseline-shift:sub;stroke-width:0.12318163"
+   id="tspan4984">3</tspan></tspan></text>
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         x="28.673744"
-         y="37.965073"
-         id="text32"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
-           sodipodi:role="line"
-           id="tspan30"
-           x="28.673744"
-           y="37.965073"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889">♜</tspan></text>
+         id="text2985-35"
+         y="33.195972"
+         x="13.674975"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.12318163"
+           y="33.195972"
+           x="13.674975"
+           id="tspan2987-62"
+           sodipodi:role="line">E<tspan
+   style="font-size:1.92166042px;baseline-shift:sub;stroke-width:0.12318163"
+   id="tspan4980">1</tspan></tspan></text>
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         x="22.850771"
-         y="50.779221"
-         id="text36"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
-           sodipodi:role="line"
-           id="tspan34"
-           x="22.850771"
-           y="50.779221"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889">♟</tspan></text>
+         id="text2985-9"
+         y="21.670353"
+         x="18.12805"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.12318163"
+           y="21.670353"
+           x="18.12805"
+           id="tspan2987-1"
+           sodipodi:role="line">E<tspan
+   style="font-size:1.92166042px;baseline-shift:sub;stroke-width:0.12318163"
+   id="tspan4986">4</tspan></tspan></text>
       <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         x="28.285536"
-         y="50.779221"
-         id="text44"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
-           sodipodi:role="line"
-           id="tspan42"
-           x="28.285536"
-           y="50.779221"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889">♟</tspan></text>
-      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         d="M 36.041704,27.24427 32.70385,31.778246"
-         id="path50"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
-      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         d="m 38.53496,27.24427 3.337854,4.533976"
-         id="path50-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
-      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         d="m 37.127609,27.170469 v 4.656648"
-         id="path69"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
-      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         d="m 36.07311,39.54418 -3.337852,4.533976"
-         id="path50-6"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
-      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         d="m 38.566366,39.54418 3.337854,4.533976"
-         id="path50-3-7"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
-      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         d="M 37.159018,39.470379 V 44.12703"
-         id="path69-5"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
-      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         d="m 30.652109,39.37174 -3.337851,4.533977"
-         id="path50-6-3"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cc"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
-      <path
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         d="m 31.738015,39.29794 v 4.656651"
-         id="path69-5-5"
-         inkscape:connector-curvature="0"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
+         id="text2985-3-6"
+         y="34.243744"
+         x="27.907358"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.12318163"
+           y="34.243744"
+           x="27.907358"
+           id="tspan2987-6-06"
+           sodipodi:role="line">E<tspan
+   style="font-size:1.92166042px;baseline-shift:sub;stroke-width:0.12318163"
+   id="tspan4982">2</tspan></tspan></text>
       <text
-         id="text149"
-         y="50.779221"
-         x="-51.546322"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         xml:space="preserve"
-         transform="scale(-1,1)"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889"
-           y="50.779221"
-           x="-51.546322"
-           id="tspan147"
-           sodipodi:role="line">♟</tspan></text>
-      <text
-         id="text153"
-         y="50.779221"
-         x="-46.111557"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76395607px;line-height:4.85247231px;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.19409889;enable-background:new"
-         xml:space="preserve"
-         transform="scale(-1,1)"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:'GNUTypewriter Bold';stroke-width:0.19409889"
-           y="50.779221"
-           x="-46.111557"
-           id="tspan151"
-           sodipodi:role="line">♟</tspan></text>
+         id="text2985-3-2"
+         y="26.123423"
+         x="10.53163"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;-inkscape-font-specification:'Sans Bold';stroke-width:0.12318163"
+           y="26.123423"
+           x="10.53163"
+           id="tspan2987-6-6"
+           sodipodi:role="line">E<tspan
+   style="font-size:1.92166042px;baseline-shift:sub;stroke-width:0.12318163"
+   id="tspan4988">5</tspan></tspan></text>
+      <ellipse
+         ry="9.7793045"
+         rx="14.581643"
+         cy="-27.921759"
+         cx="-22.304535"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.46193111;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+         id="path14446"
+         transform="scale(-1)" />
+      <ellipse
+         ry="4.7644372"
+         rx="7.1041169"
+         cy="-34.835175"
+         cx="-59.303886"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.46193111;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+         id="path14450"
+         transform="scale(-1)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
-         id="path155"
-         d="m 43.745055,39.37174 3.337867,4.533977"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
+         id="path3983"
+         d="m 15.994693,31.802707 11.498924,1.13079"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:0.30795407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
       <path
          inkscape:connector-curvature="0"
-         id="path157"
-         d="m 42.659139,39.29794 v 4.656651"
-         style="display:inline;fill:none;stroke:#000000;stroke-width:0.19409889px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-         inkscape:export-filename="/home/marc/Daten.2017/myLife/Hackers-Cardgame/png/DE/a13.png"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
+         id="path3985"
+         d="m 15.094472,30.58098 3.472277,-8.230583"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:0.30795407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3987"
+         d="m 21.719207,21.580466 7.70177,5.322615"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:0.30795407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         sodipodi:nodetypes="cc" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3989"
+         d="M 15.958494,31.034193 29.452396,28.07926"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:0.30795407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <text
+         id="text3991-9-7"
+         y="37.473133"
+         x="41.292892"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-size:1.97090602px;fill:#008000;stroke-width:0.12318163"
+           y="37.473133"
+           x="41.292892"
+           id="tspan3993-2-5"
+           sodipodi:role="line">[R]</tspan></text>
+      <text
+         id="text3991-9-7-9"
+         y="34.486244"
+         x="20.016172"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-size:1.97090602px;fill:#008000;stroke-width:0.12318163"
+           y="34.486244"
+           x="20.016172"
+           id="tspan3993-2-5-2"
+           sodipodi:role="line">[R]</tspan></text>
+      <text
+         id="text3991-9-7-9-2"
+         y="27.26425"
+         x="17.326149"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-size:1.97090602px;fill:#008000;stroke-width:0.12318163"
+           y="27.26425"
+           x="17.326149"
+           id="tspan3993-2-5-2-8"
+           sodipodi:role="line">[R]</tspan></text>
+      <text
+         id="text3991-9-7-9-9"
+         y="23.626808"
+         x="25.32851"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-size:1.97090602px;fill:#008000;stroke-width:0.12318163"
+           y="23.626808"
+           x="25.32851"
+           id="tspan3993-2-5-2-7"
+           sodipodi:role="line">[R]</tspan></text>
+      <text
+         id="text3991-9-7-9-3"
+         y="31.356367"
+         x="22.782305"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-size:1.97090602px;fill:#008000;stroke-width:0.12318163"
+           y="31.356367"
+           x="22.782305"
+           id="tspan3993-2-5-2-6"
+           sodipodi:role="line">[R]</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4136"
+         d="m 53.245471,38.649002 -6.092706,5.092412"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:0.30795407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <ellipse
+         ry="4.2127218"
+         rx="6.2814698"
+         cy="-56.578159"
+         cx="-27.715374"
+         style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.46193111;stroke-miterlimit:4;stroke-dasharray:none;enable-background:new"
+         id="path14470"
+         transform="rotate(165.08405)" />
+      <text
+         id="text3991-9-7-9-9-1"
+         y="43.996464"
+         x="51.336189"
+         style="font-style:normal;font-weight:normal;font-size:2.95635891px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"><tspan
+           style="font-size:1.97090602px;fill:#008000;stroke-width:0.12318163"
+           y="43.996464"
+           x="51.336189"
+           id="tspan3993-2-5-2-7-2"
+           sodipodi:role="line">[R]</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4653-6"
+         d="m 21.612659,25.696555 0.966264,3.555302"
+         style="display:inline;fill:#ff0000;stroke:#ff0000;stroke-width:0.13193001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:none;enable-background:new"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:#ff0000;stroke:#ff0000;stroke-width:0.065965px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);enable-background:new"
+         d="m 21.653299,25.731398 0.98234,3.732128"
+         id="path4207-1"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         id="text3991-9-7-9-9-9-0"
+         y="30.246468"
+         x="13.294268"
+         style="font-style:normal;font-weight:normal;font-size:1.58316004px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12318163;enable-background:new"
+         xml:space="preserve"
+         transform="rotate(-15)"><tspan
+           style="font-weight:bold;font-size:1.05544007px;-inkscape-font-specification:'Sans Bold';fill:#ff0000;stroke-width:0.12318163"
+           y="30.246468"
+           x="13.294268"
+           id="tspan3993-2-5-2-7-3-6"
+           sodipodi:role="line">[K]</tspan></text>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4136-3"
+         d="m 61.997981,35.119897 -2.806364,1.476761"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:0.30795407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4136-3-2"
+         d="M 61.720129,33.800851 57.640661,32.685936"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:0.30795407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4136-3-0"
+         d="m 56.582249,34.164595 0.717401,1.090281"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:0.30795407;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3989-7"
+         d="m 37.155748,31.06153 14.236057,3.389918"
+         style="display:inline;fill:none;stroke:#008000;stroke-width:0.36954486;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.24636325;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 44.755092,31.530358 1.639687,-7.105309"
+         id="path14337"
+         inkscape:connector-curvature="0" />
+      <path
+         style="display:inline;fill:#ff0000;stroke:#ff0000;stroke-width:0.13954616px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend);enable-background:new"
+         d="m 46.415361,24.427695 -1.861445,7.949028"
+         id="path4207-1-6"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         id="text3991-9-7-9-9-9-0-7-8"
+         y="12.472292"
+         x="48.833786"
+         style="font-style:normal;font-weight:normal;font-size:3.34910774px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.12318164;enable-background:new"
+         xml:space="preserve"
+         transform="rotate(12.926066)"><tspan
+           style="font-weight:bold;font-size:2.23273849px;-inkscape-font-specification:'Sans Bold';fill:#ff0000;stroke-width:0.12318164"
+           y="12.472292"
+           x="48.833786"
+           id="tspan3993-2-5-2-7-3-6-3"
+           sodipodi:role="line">[K]</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -512,7 +614,7 @@
          ry="4.5458832" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="barRed"
        id="g2901"
        inkscape:groupmode="layer"
@@ -531,7 +633,7 @@
        inkscape:groupmode="layer"
        id="g2959"
        inkscape:label="barPink"
-       style="display:none">
+       style="display:inline">
       <rect
          style="fill:#ffaaaa;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2957"
@@ -2341,75 +2443,58 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="flag"
-     style="display:none">
-    <path
-       d="m 20.158967,45.552873 c 0,0 -10.4578147,0 -10.4578147,0 0,0 0,-6.971818 0,-6.971818 0,0 10.4578147,0 10.4578147,0 0,0 0,6.971818 0,6.971818 z"
-       style="display:inline;fill:#1f5ab1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;enable-background:new"
-       id="path312"
-       inkscape:connector-curvature="0" />
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:1.31368911;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect8612"
+       width="11.539434"
+       height="8.0497417"
+       x="8.7823658"
+       y="42.634506"
+       rx="0.060207408"
+       ry="0.060207408"
+       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
+       inkscape:export-xdpi="336.75912"
+       inkscape:export-ydpi="336.75912" />
+    <rect
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.15051852;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+       id="rect8612-3"
+       width="11.910451"
+       height="8.307868"
+       x="8.6056328"
+       y="42.515968"
+       rx="0.15051851"
+       ry="0.15051852"
+       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
+       inkscape:export-xdpi="336.75912"
+       inkscape:export-ydpi="336.75912" />
     <g
        style="display:inline;enable-background:new"
-       transform="matrix(0.1152892,0,0,0.1152892,-140.54422,171.06834)"
-       id="g314">
-      <g
-         id="g316"
-         clip-path="url(#clipPath318-1)">
-        <path
-           d="m 1304.3698,-1152.2985 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.6379 1.0708,-3.6379 0,0 1.2854,3.6379 1.2854,3.6379 0,0 3.8501,0 3.8501,0 0,0 -3.2105,2.1402 -3.2105,2.1402 0,0 1.2833,3.638 1.2833,3.638 0,0 -3.2083,-2.1401 -3.2083,-2.1401 0,0 -2.9958,2.1401 -2.9958,2.1401 0,0 1.0708,-3.638 1.0708,-3.638 0,0 -2.9979,-2.1402 -2.9979,-2.1402 0,0 0,0 0,0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path322"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 1312.05,-1144.5812 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.6376 1.0708,-3.6376 0,0 1.2854,3.6376 1.2854,3.6376 0,0 3.8501,0 3.8501,0 0,0 -3.2105,2.14 -3.2105,2.14 0,0 1.2833,3.637 1.2833,3.637 0,0 -3.2083,-2.1385 -3.2083,-2.1385 0,0 -2.9958,2.1385 -2.9958,2.1385 0,0 1.0708,-3.637 1.0708,-3.637 0,0 -2.9979,-2.14 -2.9979,-2.14 0,0 0,0 0,0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path324"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 1319.7292,-1136.8646 c 0,0 3.852,0 3.852,0 0,0 1.0709,-3.6375 1.0709,-3.6375 0,0 1.2854,3.6375 1.2854,3.6375 0,0 3.85,0 3.85,0 0,0 -3.2104,2.1407 -3.2104,2.1407 0,0 1.2833,3.6374 1.2833,3.6374 0,0 -3.2083,-2.1395 -3.2083,-2.1395 0,0 -2.9959,2.1395 -2.9959,2.1395 0,0 1.0708,-3.6374 1.0708,-3.6374 0,0 -2.9978,-2.1407 -2.9978,-2.1407 0,0 0,0 0,0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path326"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 1327.4083,-1129.1474 c 0,0 3.8521,0 3.8521,0 0,0 1.0709,-3.638 1.0709,-3.638 0,0 1.2853,3.638 1.2853,3.638 0,0 3.8501,0 3.8501,0 0,0 -3.2105,2.1401 -3.2105,2.1401 0,0 1.2834,3.638 1.2834,3.638 0,0 -3.2083,-2.14 -3.2083,-2.14 0,0 -2.9958,2.14 -2.9958,2.14 0,0 1.0708,-3.638 1.0708,-3.638 0,0 -2.998,-2.1401 -2.998,-2.1401 0,0 0,0 0,0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path328"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 1335.0885,-1121.4302 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.637 1.0708,-3.637 0,0 1.2855,3.637 1.2855,3.637 0,0 3.85,0 3.85,0 0,0 -3.2105,2.1401 -3.2105,2.1401 0,0 1.2834,3.637 1.2834,3.637 0,0 -3.2084,-2.1396 -3.2084,-2.1396 0,0 -2.9957,2.1396 -2.9957,2.1396 0,0 1.0708,-3.637 1.0708,-3.637 0,0 -2.998,-2.1401 -2.998,-2.1401 0,0 0,0 0,0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path330"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 1342.7687,-1113.7136 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.6374 1.0708,-3.6374 0,0 1.2855,3.6374 1.2855,3.6374 0,0 3.8511,0 3.8511,0 0,0 -3.2116,2.1407 -3.2116,2.1407 0,0 1.2835,3.6375 1.2835,3.6375 0,0 -3.2085,-2.1396 -3.2085,-2.1396 0,0 -2.9958,2.1396 -2.9958,2.1396 0,0 1.0709,-3.6375 1.0709,-3.6375 0,0 -2.998,-2.1407 -2.998,-2.1407 0,0 0,0 0,0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path332"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 1350.4479,-1105.9964 c 0,0 3.8531,0 3.8531,0 0,0 1.0708,-3.6379 1.0708,-3.6379 0,0 1.2855,3.6379 1.2855,3.6379 0,0 3.85,0 3.85,0 0,0 -3.2104,2.1411 -3.2104,2.1411 0,0 1.2834,3.6376 1.2834,3.6376 0,0 -3.2085,-2.1391 -3.2085,-2.1391 0,0 -2.9958,2.1391 -2.9958,2.1391 0,0 1.0709,-3.6376 1.0709,-3.6376 0,0 -2.999,-2.1411 -2.999,-2.1411 0,0 0,0 0,0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path334"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 1358.1281,-1098.2802 c 0,0 3.8522,0 3.8522,0 0,0 1.0708,-3.6376 1.0708,-3.6376 0,0 1.2853,3.6376 1.2853,3.6376 0,0 3.8501,0 3.8501,0 0,0 -3.2105,2.1422 -3.2105,2.1422 0,0 1.2834,3.637 1.2834,3.637 0,0 -3.2083,-2.1391 -3.2083,-2.1391 0,0 -2.9958,2.1391 -2.9958,2.1391 0,0 1.0708,-3.637 1.0708,-3.637 0,0 -2.998,-2.1422 -2.998,-2.1422 0,0 0,0 0,0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path336"
-           inkscape:connector-curvature="0" />
-        <path
-           d="m 1365.8073,-1090.5625 c 0,0 3.8521,0 3.8521,0 0,0 1.0708,-3.637 1.0708,-3.637 0,0 1.2855,3.637 1.2855,3.637 0,0 3.8499,0 3.8499,0 0,0 -3.2103,2.1406 -3.2103,2.1406 0,0 1.2833,3.6375 1.2833,3.6375 0,0 -3.2084,-2.1395 -3.2084,-2.1395 0,0 -2.9958,2.1395 -2.9958,2.1395 0,0 1.0708,-3.6375 1.0708,-3.6375 0,0 -2.9979,-2.1406 -2.9979,-2.1406 0,0 0,0 0,0"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="path338"
-           inkscape:connector-curvature="0" />
-      </g>
+       id="g13835"
+       transform="matrix(0.26458333,0,0,0.26458333,23.679689,20.920921)"
+       inkscape:export-filename="/home/marc/Hackers-Cardgame/png/DE/a12.png"
+       inkscape:export-xdpi="336.75912"
+       inkscape:export-ydpi="336.75912">
+      <path
+         inkscape:connector-curvature="0"
+         id="path846"
+         style="display:inline;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:new"
+         d="m -55.665731,111.39629 c 0,0 42.156266,0 42.156266,0 0,0 0,-28.233393 0,-28.233393 0,0 -42.156266,0 -42.156266,0 0,0 0,28.233393 0,28.233393 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path848"
+         style="display:inline;fill:#ed1c24;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:new"
+         d="m -55.665731,111.39629 c 0,0 42.156266,0 42.156266,0 0,0 0,-18.821926 0,-18.821926 0,0 -42.156266,0 -42.156266,0 0,0 0,18.821926 0,18.821926 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path850"
+         style="display:inline;fill:#fbc707;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06666672;enable-background:new"
+         d="m -55.665731,111.39629 c 0,0 42.156266,0 42.156266,0 0,0 0,-9.41387 0,-9.41387 0,0 -42.156266,0 -42.156266,0 0,0 0,9.41387 0,9.41387 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path852"
+         style="display:inline;fill:none;stroke:#231f20;stroke-width:0.04958235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m -55.665731,111.39629 c 0,0 42.156266,0 42.156266,0 0,0 0,-28.233393 0,-28.233393 0,0 -42.156266,0 -42.156266,0 0,0 0,28.233393 0,28.233393 z" />
     </g>
-    <path
-       d="m 18.85379,45.552873 c 0,0 -6.988796,-6.971818 -6.988796,-6.971818 0,0 6.988796,0 6.988796,0 0,0 0,6.971818 0,6.971818 z"
-       style="display:inline;fill:#fcd01b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;enable-background:new"
-       id="path340"
-       inkscape:connector-curvature="0" />
-    <path
-       d="m 20.158967,45.552873 c 0,0 -10.4578147,0 -10.4578147,0 0,0 0,-6.971818 0,-6.971818 0,0 10.4578147,0 10.4578147,0 0,0 0,6.971818 0,6.971818 z"
-       style="display:inline;fill:none;stroke:#231f20;stroke-width:0.03486222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="path342"
-       inkscape:connector-curvature="0" />
   </g>
 </svg>
