@@ -46,11 +46,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9951014"
-     inkscape:cx="93.19968"
-     inkscape:cy="198.4252"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="35.976037"
+     inkscape:cy="402.6195"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer14"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -1478,7 +1478,7 @@
          inkscape:groupmode="layer"
          id="layer12"
          inkscape:label="hacking"
-         style="display:inline">
+         style="display:none">
         <g
            style="display:inline;enable-background:new"
            id="g4894"
@@ -1575,7 +1575,43 @@
          inkscape:groupmode="layer"
          id="layer14"
          inkscape:label="method"
-         style="display:none" />
+         style="display:inline">
+        <g
+           id="g2276"
+           transform="translate(0.70929527,21.932335)">
+          <rect
+             ry="4.0763397"
+             rx="4.0763397"
+             y="-14.46242"
+             x="7.1407046"
+             height="9.531085"
+             width="9.531085"
+             id="rect3952-3-7-1-6-9-6"
+             style="fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.40227041" />
+          <g
+             style="stroke:none"
+             transform="matrix(1.6336469,0,0,1.6336469,29.380172,-30.793761)"
+             id="g2233">
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -11.583363,12.286542 2.3168674,2.393425 0.4807349,-0.45587 -2.4265783,-2.304211 z"
+               id="path1419"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="ccccc" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -12.051523,12.90614 0.273522,-0.298387 -0.09117,-0.09946 0.953181,-0.920026 c 0.09838,-0.08449 0.160557,-0.129949 0.306675,-0.117982 0.07136,0.0084 0.134172,0.0075 0.240368,0.07654 -0.05029,-0.09007 -0.143089,-0.190717 -0.255483,-0.273022 -0.08909,-0.05232 -0.163099,-0.08204 -0.243917,-0.108291 -0.149665,-0.03641 -0.227743,-0.01946 -0.321165,0.0249 -0.108697,0.07728 -0.211599,0.171954 -0.314964,0.265233 l -0.687948,0.696237 -0.09946,-0.09117 -0.314964,0.298387 z"
+               id="path2226"
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cccccccccccccc" />
+            <path
+               style="fill:#ffffff;stroke:none;stroke-width:0.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               d="m -12.038239,11.820863 0.357513,-0.360444 0.06007,0.06593 -0.357513,0.36484 z"
+               id="path2228"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+      </g>
       <g
          inkscape:groupmode="layer"
          id="layer15"
@@ -1998,7 +2034,7 @@
            inkscape:export-ydpi="375.67999"
            inkscape:export-xdpi="375.67999"
            inkscape:export-filename="/home/claude/Daten.2015/myLife/Tagebuch/2016/oktober/Shrink-Disorder-Game/png/a1.png"
-           transform="matrix(0.3102588,0,0,0.3102588,-87.691874,-243.91337)"
+           transform="matrix(0.3102588,0,0,0.3102588,-87.691874,-243.89591)"
            id="g3873-3">
           <rect
              style="fill:#fda62a;fill-opacity:1;stroke:none;stroke-width:1.06666672"
