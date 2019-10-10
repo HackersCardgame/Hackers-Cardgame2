@@ -48,10 +48,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9951014"
-     inkscape:cx="129.27212"
+     inkscape:cx="68.37296"
      inkscape:cy="160.35358"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3145"
+     inkscape:current-layer="g2897"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -66,12 +66,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-192)"
      id="g2897"
      inkscape:groupmode="layer"
@@ -85,6 +85,38 @@
        width="63.298035"
        id="rect2895"
        style="opacity:0.93999999;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <g
+     inkscape:label="bodyBlue"
+     inkscape:groupmode="layer"
+     id="g3079"
+     transform="translate(0,-192)"
+     style="display:inline">
+    <rect
+       style="opacity:0.93999999;fill:#afdde9;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3077"
+       width="63.298035"
+       height="93.298027"
+       x="5.3509827"
+       y="197.85098"
+       rx="3.5534737"
+       ry="3.8487499" />
+  </g>
+  <g
+     style="display:none"
+     transform="translate(0,-192)"
+     id="g3083"
+     inkscape:groupmode="layer"
+     inkscape:label="bodyYellow">
+    <rect
+       ry="5.6843419e-14"
+       rx="0.59860229"
+       y="197.85098"
+       x="5.3509827"
+       height="93.298027"
+       width="63.298035"
+       id="rect3081"
+       style="opacity:0.93999999;fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -157,38 +189,6 @@
          x="57.402966"
          y="57.300941"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.26458332">~1993</tspan></text>
-  </g>
-  <g
-     inkscape:label="bodyBlue"
-     inkscape:groupmode="layer"
-     id="g3079"
-     transform="translate(0,-192)"
-     style="display:none">
-    <rect
-       style="opacity:0.93999999;fill:#aaaaff;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect3077"
-       width="63.298035"
-       height="93.298027"
-       x="5.3509827"
-       y="197.85098"
-       rx="3.5534737"
-       ry="3.8487499" />
-  </g>
-  <g
-     style="display:none"
-     transform="translate(0,-192)"
-     id="g3083"
-     inkscape:groupmode="layer"
-     inkscape:label="bodyYellow">
-    <rect
-       ry="5.6843419e-14"
-       rx="0.59860229"
-       y="197.85098"
-       x="5.3509827"
-       height="93.298027"
-       width="63.298035"
-       id="rect3081"
-       style="opacity:0.93999999;fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
      inkscape:groupmode="layer"
