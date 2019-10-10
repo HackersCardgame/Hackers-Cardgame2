@@ -47,11 +47,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="96.252109"
-     inkscape:cy="71.915792"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="102.63704"
+     inkscape:cy="250.15967"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2897"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -84,8 +84,68 @@
        height="93.298027"
        width="63.298035"
        id="rect2895"
-       style="opacity:0.93999999;fill:#ffd5d5;fill-opacity:1;stroke:#000000;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:0.93999999;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer26"
+     inkscape:label="text">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3256"
+       style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,0,3.7041668)"><flowRegion
+         id="flowRegion3258"><rect
+           id="rect3260"
+           width="214.25336"
+           height="152.02795"
+           x="32.526913"
+           y="210.88132" /></flowRegion><flowPara
+         id="flowPara3262"
+         style="text-anchor:start;text-align:justify">asdfasdfas dfasdfasdfasdfasdfasd asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf asdf assfdg</flowPara><flowPara
+         id="flowPara3330"
+         style="text-anchor:start;text-align:justify" /><flowPara
+         id="flowPara3332"
+         style="text-anchor:start;text-align:justify">sdg</flowPara><flowPara
+         id="flowPara3334"
+         style="text-anchor:start;text-align:justify">sd</flowPara><flowPara
+         id="flowPara3336"
+         style="text-anchor:start;text-align:justify">fg</flowPara><flowPara
+         id="flowPara3338"
+         style="text-anchor:start;text-align:justify">sdfg</flowPara><flowPara
+         id="flowPara3340"
+         style="text-anchor:start;text-align:justify">sdfg</flowPara><flowPara
+         id="flowPara3342"
+         style="text-anchor:start;text-align:justify">sdf</flowPara><flowPara
+         id="flowPara3344"
+         style="text-anchor:start;text-align:justify">gsd</flowPara><flowPara
+         id="flowPara3346"
+         style="text-anchor:start;text-align:justify">fg</flowPara><flowPara
+         id="flowPara3350"
+         style="text-anchor:start;text-align:justify">sdfgsdfgdf asdf asdf asdf asdf asdf asdf asdf fasdfasdfasdf</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="42.28204"
+       y="63.840492"
+       id="text3266"><tspan
+         sodipodi:role="line"
+         id="tspan3264"
+         x="42.28204"
+         y="66.961746"
+         style="stroke-width:0.26458332"></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3322"
+       style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,3.1805074,2.0579754)"><flowRegion
+         id="flowRegion3324"><rect
+           id="rect3326"
+           width="238.82249"
+           height="28.637268"
+           x="20.685699"
+           y="201.33592" /></flowRegion><flowPara
+         id="flowPara3328"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Inventor:                          Year:</flowPara></flowRoot>  </g>
   <g
      inkscape:label="bodyBlue"
      inkscape:groupmode="layer"
@@ -93,7 +153,7 @@
      transform="translate(0,-192)"
      style="display:none">
     <rect
-       style="opacity:0.93999999;fill:#aaaaff;fill-opacity:1;stroke:#000000;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
+       style="opacity:0.93999999;fill:#aaaaff;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3077"
        width="63.298035"
        height="93.298027"
@@ -109,14 +169,14 @@
      inkscape:groupmode="layer"
      inkscape:label="bodyYellow">
     <rect
-       ry="3.8487499"
-       rx="3.5534737"
+       ry="5.6843419e-14"
+       rx="0.59860229"
        y="197.85098"
        x="5.3509827"
        height="93.298027"
        width="63.298035"
        id="rect3081"
-       style="opacity:0.93999999;fill:#fff6d5;fill-opacity:1;stroke:#000000;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:0.93999999;fill:#fff6d5;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -148,7 +208,7 @@
          x="5.4730911"
          y="15.646222"
          rx="4.4987354"
-         ry="3.9531076" />
+         ry="0.95968819" />
     </g>
   </g>
   <g
@@ -164,8 +224,8 @@
        height="93.298027"
        x="5.3509827"
        y="197.85098"
-       rx="3.5534737"
-       ry="3.8487499" />
+       rx="2.6935785"
+       ry="2.9227133" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -270,9 +330,32 @@
            id="tspan957">mulitiline äöü Comment</tspan></text>
     </g>
     <g
+       style="display:inline"
+       inkscape:label="headerTextBitstream"
+       id="g3145"
+       inkscape:groupmode="layer">
+      <text
+         id="text3143"
+         y="11.64042"
+         x="40.941513"
+         style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:'Rubik One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;-inkscape-font-specification:'Rubik One';font-stretch:normal;font-variant:normal;"
+         xml:space="preserve"><tspan
+           id="tspan3139"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Rubik One';-inkscape-font-specification:'Rubik One';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332;"
+           y="11.64042"
+           x="40.941513"
+           sodipodi:role="line">Title with a lot of Text</tspan><tspan
+           id="tspan3141"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Rubik One';-inkscape-font-specification:'Rubik One';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332;"
+           y="16.079161"
+           x="40.941513"
+           sodipodi:role="line">mulitiline äöü Comment</tspan></text>
+    </g>
+    <g
        inkscape:label="headerTextMonospace"
        id="g987"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       style="display:none">
       <text
          id="text985"
          y="11.64042"
