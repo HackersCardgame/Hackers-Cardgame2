@@ -106,10 +106,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="141.23474"
+     inkscape:cx="152.15624"
      inkscape:cy="250.46953"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="g3145"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -124,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -184,7 +184,7 @@
        xml:space="preserve"
        id="flowRoot3256"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,0,2.6458334)"><flowRegion
          id="flowRegion3258"><rect
            id="rect3260"
            width="214.25336"
@@ -193,6 +193,10 @@
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara21823">EEG was originally developed by neurologist Hans Berger. The Brain Computer Interface is an EEG that recognizes patterns of brain currents with software (pattern recognition, AI, Deep Learning) and then can activate events e.g. to start the IoT-Toaster or more worse thigns like a SuicideDeathBot Today with more computing power, there are much more possibilities than in 1929.</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara43564" /><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara43566">If the interface is bidirectional things could become a Self-fulfilling prophecy, see card co2</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara41661" /><flowPara
          style="text-align:justify;text-anchor:start"
@@ -428,15 +432,20 @@
        inkscape:groupmode="layer">
       <text
          id="text3143"
-         y="14.815417"
-         x="40.941513"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Rubik One';-inkscape-font-specification:'Rubik One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         y="12.143227"
+         x="41.672516"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.51742363px;line-height:1;font-family:'Rubik One';-inkscape-font-specification:'Rubik One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1648792"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MineCrafter 3';-inkscape-font-specification:'MineCrafter 3, ';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-           y="14.815417"
-           x="40.941513"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MineCrafter 3';-inkscape-font-specification:'MineCrafter 3, ';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.1648792"
+           y="12.143227"
+           x="41.672516"
            sodipodi:role="line"
-           id="tspan4165">Antenne</tspan></text>
+           id="tspan4165">EEG</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Code Pro';-inkscape-font-specification:'Source Code Pro';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.1648792"
+           y="15.66065"
+           x="41.672516"
+           sodipodi:role="line"
+           id="tspan43568">Electroencephalography</tspan></text>
     </g>
     <g
        inkscape:label="headerTextMonospace"
