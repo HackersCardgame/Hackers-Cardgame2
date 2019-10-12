@@ -105,11 +105,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.1048344"
-     inkscape:cx="122.41221"
-     inkscape:cy="116.30253"
+     inkscape:zoom="1.5624718"
+     inkscape:cx="130.70321"
+     inkscape:cy="185.56914"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -124,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -172,7 +172,7 @@
          id="tspan22775"
          x="48.374519"
          y="271.50366"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
   </g>
   <g
      style="display:none"
@@ -239,9 +239,9 @@
            x="20.685699"
            y="201.33592" /></flowRegion><flowPara
          id="flowPara3328"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Inventor:                          Year:</flowPara></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Inventor:                          </flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.11666684px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:2.11666679px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="24.321527"
        y="57.137398"
        id="text3356"
@@ -251,8 +251,8 @@
          sodipodi:role="line"
          x="24.321527"
          y="57.137398"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000;stroke-width:0.26458332"
-         id="tspan3376">Hermann Rorschach</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;stroke-width:0.26458332"
+         id="tspan3376">Franz Steiff / Steiff GmbH</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.46944451px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2249,28 +2249,24 @@
      inkscape:label="flag"
      style="display:inline">
     <path
-       d="m 9.7205998,49.631757 c 0,0 10.4567162,0 10.4567162,0 0,0 0,-7.003092 0,-7.003092 0,0 -10.4567162,0 -10.4567162,0 0,0 0,7.003092 0,7.003092 z"
+       d="m 8.78424,50.630872 c 0,0 10.45673,0 10.45673,0 0,0 0,-7.003203 0,-7.003203 0,0 -10.45673,0 -10.45673,0 0,0 0,7.003203 0,7.003203 z"
+       style="display:inline;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;enable-background:new"
+       id="path846"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 8.78424,50.630872 c 0,0 10.45673,0 10.45673,0 0,0 0,-4.668719 0,-4.668719 0,0 -10.45673,0 -10.45673,0 0,0 0,4.668719 0,4.668719 z"
        style="display:inline;fill:#ed1c24;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;enable-background:new"
-       id="path828"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/m2.png"
-       inkscape:export-xdpi="363.92001"
-       inkscape:export-ydpi="363.92001" />
+       id="path848"
+       inkscape:connector-curvature="0" />
     <path
-       d="m 9.7205998,49.631757 c 0,0 10.4567162,0 10.4567162,0 0,0 0,-7.003092 0,-7.003092 0,0 -10.4567162,0 -10.4567162,0 0,0 0,7.003092 0,7.003092 z"
+       d="m 8.78424,50.630872 c 0,0 10.45673,0 10.45673,0 0,0 0,-2.335081 0,-2.335081 0,0 -10.45673,0 -10.45673,0 0,0 0,2.335081 0,2.335081 z"
+       style="display:inline;fill:#fbc707;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;enable-background:new"
+       id="path850"
+       inkscape:connector-curvature="0" />
+    <path
+       d="m 8.78424,50.630872 c 0,0 10.45673,0 10.45673,0 0,0 0,-7.003203 0,-7.003203 0,0 -10.45673,0 -10.45673,0 0,0 0,7.003203 0,7.003203 z"
        style="display:inline;fill:none;stroke:#231f20;stroke-width:0.01229875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-       id="path830"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/m2.png"
-       inkscape:export-xdpi="363.92001"
-       inkscape:export-ydpi="363.92001" />
-    <path
-       d="m 17.245501,45.442337 c 0,0 -1.608881,0 -1.608881,0 0,0 0,-1.608892 0,-1.608892 0,0 -1.375556,0 -1.375556,0 0,0 0,1.608892 0,1.608892 0,0 -1.608767,0 -1.608767,0 0,0 0,1.375664 0,1.375664 0,0 1.608767,0 1.608767,0 0,0 0,1.608751 0,1.608751 0,0 1.375556,0 1.375556,0 0,0 0,-1.608751 0,-1.608751 0,0 1.608881,0 1.608881,0 0,0 0,-1.375664 0,-1.375664 z"
-       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;enable-background:new"
-       id="path832"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/m2.png"
-       inkscape:export-xdpi="363.92001"
-       inkscape:export-ydpi="363.92001" />
+       id="path852"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
