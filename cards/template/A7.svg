@@ -106,10 +106,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="138.78125"
-     inkscape:cy="130.46953"
+     inkscape:cx="87.781253"
+     inkscape:cy="170.46953"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="g3071"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -301,7 +301,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="frame"
-     style="display:inline;filter:url(#filter1978)">
+     style="display:none;filter:url(#filter1978)">
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect10-3"
@@ -364,8 +364,8 @@
          ry="4.5458832" />
     </g>
     <g
-       style="display:inline"
-       inkscape:label="barTuerkies"
+       style="display:none"
+       inkscape:label="aquamarin"
        id="g3071"
        inkscape:groupmode="layer">
       <rect
@@ -438,7 +438,7 @@
        inkscape:label="headerTextMonospace"
        id="g987"
        inkscape:groupmode="layer"
-       style="display:inline">
+       style="display:none">
       <text
          id="text985"
          y="10.859962"
@@ -455,6 +455,28 @@
            x="42.003956"
            sodipodi:role="line"
            id="tspan23206">Crafts</tspan></text>
+    </g>
+    <g
+       style="display:none"
+       inkscape:groupmode="layer"
+       id="g17177"
+       inkscape:label="headerTextSans">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.01916933px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
+         x="42.003956"
+         y="11.389129"
+         id="text17175"><tspan
+           sodipodi:role="line"
+           x="42.003956"
+           y="11.389129"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.3224555"
+           id="tspan17171">Pottery</tspan><tspan
+           id="tspan17173"
+           sodipodi:role="line"
+           x="42.003956"
+           y="17.408298"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.3224555">Crafts</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
