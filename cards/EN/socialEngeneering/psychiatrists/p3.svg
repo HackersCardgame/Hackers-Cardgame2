@@ -105,9 +105,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0000001"
-     inkscape:cx="129.0472"
-     inkscape:cy="170.75798"
+     inkscape:zoom="1.54817"
+     inkscape:cx="139.84252"
+     inkscape:cy="198.4252"
      inkscape:document-units="mm"
      inkscape:current-layer="g29667"
      showgrid="false"
@@ -158,7 +158,10 @@
        x="5.3509827"
        y="197.85098"
        rx="3.5534737"
-       ry="3.8487499" />
+       ry="3.8487499"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+       inkscape:export-xdpi="384.85001"
+       inkscape:export-ydpi="384.85001" />
   </g>
   <g
      inkscape:label="bodyBlue"
@@ -276,9 +279,9 @@
        id="flowRoot3256-6"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,-0.02945736,2.2000515)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
-       inkscape:export-xdpi="363.92001"
-       inkscape:export-ydpi="363.92001"><flowRegion
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+       inkscape:export-xdpi="384.85001"
+       inkscape:export-ydpi="384.85001"><flowRegion
          id="flowRegion3258-1"><rect
            id="rect3260-0"
            width="214.25336"
@@ -288,19 +291,19 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara21823-6"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
-   id="flowSpan29141">N</flowSpan> Neuroticism:        only in pursuit</flowPara><flowPara
+   id="flowSpan29141">N</flowSpan> Neuroticism:        calm, analytic</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara29143"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
-   id="flowSpan54648">E</flowSpan> Extraversion:       guardedly</flowPara><flowPara
+   id="flowSpan54648">E</flowSpan> Extraversion:       low</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara29145"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
    id="flowSpan54650">O</flowSpan> Openness:           open</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara29147"><flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold Italic'"
-   id="flowSpan54656">C</flowSpan> Conscienttiousness: killed by the state</flowPara><flowPara
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
+   id="flowSpan54656">C</flowSpan> Conscienttiousness: conscientious, logical</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara29149"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
@@ -309,35 +312,29 @@
          id="flowPara29151" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara29153" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
-         id="flowPara31343"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#ff0000"
-   id="flowSpan49637">Orgon-Acumulator</flowSpan>, <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';fill:#008000"
-   id="flowSpan49641">humanism</flowSpan></flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold';text-align:justify;text-anchor:start;fill:#008000"
+         id="flowPara31343">Theory of cognitive development</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara29155" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara31341" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
-         id="flowPara31351">Humanism                        ★★★★★  (5/5)</flowPara><flowPara
+         id="flowPara31351">Humanism                        ★★★★☆  (4/5)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
-         id="flowPara29159"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
-   id="flowSpan49643">Technical Background</flowSpan>            ★★★★★  (5/5)</flowPara><flowPara
+         id="flowPara29159">Technical Background            ★★☆☆☆  (2/5)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
-         id="flowPara31195">Megalomania                     ★★☆☆☆  (2/5)</flowPara><flowPara
+         id="flowPara31195">Megalomania                     ★☆☆☆☆  (1/5)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
-         id="flowPara31199">Military Background             ☆☆☆☆☆  (0/5)</flowPara><flowPara
+         id="flowPara31199">Military Background             ★☆☆☆☆  (1/5)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara31201">Project Problems to Patients    ★☆☆☆☆  (1/5)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3322-3"
        style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,3.15105,1.6121945)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
-       inkscape:export-xdpi="363.92001"
-       inkscape:export-ydpi="363.92001"><flowRegion
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+       inkscape:export-xdpi="384.85001"
+       inkscape:export-ydpi="384.85001"><flowRegion
          id="flowRegion3324-2"><rect
            id="rect3326-0"
            width="238.82249"
@@ -351,9 +348,9 @@
        x="57.373508"
        y="57.384331"
        id="text3356-1-1"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
-       inkscape:export-xdpi="363.92001"
-       inkscape:export-ydpi="363.92001"><tspan
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+       inkscape:export-xdpi="384.85001"
+       inkscape:export-ydpi="384.85001"><tspan
          sodipodi:role="line"
          id="tspan3354-1-5"
          x="57.373508"
@@ -365,9 +362,9 @@
        x="8.4216328"
        y="75.117104"
        id="text31209"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
-       inkscape:export-xdpi="363.92001"
-       inkscape:export-ydpi="363.92001"><tspan
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+       inkscape:export-xdpi="384.85001"
+       inkscape:export-ydpi="384.85001"><tspan
          sodipodi:role="line"
          id="tspan31207"
          x="8.4216328"
@@ -379,9 +376,9 @@
        x="8.4031038"
        y="83.118332"
        id="text31209-3"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
-       inkscape:export-xdpi="363.92001"
-       inkscape:export-ydpi="363.92001"><tspan
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+       inkscape:export-xdpi="384.85001"
+       inkscape:export-ydpi="384.85001"><tspan
          sodipodi:role="line"
          id="tspan31207-5"
          x="8.4031038"
@@ -405,7 +402,10 @@
          x="5.4730911"
          y="15.646223"
          rx="0"
-         ry="0" />
+         ry="0"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+         inkscape:export-xdpi="384.85001"
+         inkscape:export-ydpi="384.85001" />
       <image
          style="display:inline;enable-background:new"
          y="9.1790428"
@@ -415,11 +415,15 @@
          preserveAspectRatio="none"
          height="44.256451"
          width="63.571762"
-         inkscape:export-xdpi="375.67999"
-         inkscape:export-ydpi="375.67999" />
+         inkscape:export-xdpi="384.85001"
+         inkscape:export-ydpi="384.85001"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png" />
       <g
          id="g29631"
-         transform="translate(1.0583333)">
+         transform="translate(1.0583333)"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+         inkscape:export-xdpi="384.85001"
+         inkscape:export-ydpi="384.85001">
         <path
            inkscape:connector-curvature="0"
            id="path828"
@@ -450,7 +454,10 @@
          x="5.4730911"
          y="15.646222"
          rx="4.4987354"
-         ry="0" />
+         ry="0"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+         inkscape:export-xdpi="384.85001"
+         inkscape:export-ydpi="384.85001" />
     </g>
   </g>
   <g
@@ -467,7 +474,10 @@
        x="5.3509827"
        y="197.85098"
        rx="2.6935785"
-       ry="2.9227133" />
+       ry="2.9227133"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+       inkscape:export-xdpi="384.85001"
+       inkscape:export-ydpi="384.85001" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -563,7 +573,10 @@
          x="5.9495811"
          y="5.8509827"
          rx="5.2072439"
-         ry="4.5458832" />
+         ry="4.5458832"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+         inkscape:export-xdpi="384.85001"
+         inkscape:export-ydpi="384.85001" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -653,7 +666,10 @@
          style="font-style:normal;font-weight:normal;font-size:6.01916933px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
          x="42.003956"
          y="14.03496"
-         id="text17175"><tspan
+         id="text17175"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+         inkscape:export-xdpi="384.85001"
+         inkscape:export-ydpi="384.85001"><tspan
            sodipodi:role="line"
            x="42.003956"
            y="14.03496"
@@ -1866,7 +1882,10 @@
         <g
            transform="matrix(1.5348387,0,0,1.5348956,-8.8748706,18.154361)"
            style="display:inline"
-           id="g1595">
+           id="g1595"
+           inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+           inkscape:export-xdpi="384.85001"
+           inkscape:export-ydpi="384.85001">
           <rect
              style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.26096317"
              id="rect3952-3-5-2-83"
@@ -2371,7 +2390,10 @@
            height="9.301053"
            width="9.301053"
            id="rect917-6"
-           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+           style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/p3.png"
+           inkscape:export-xdpi="384.85001"
+           inkscape:export-ydpi="384.85001" />
       </g>
     </g>
   </g>
