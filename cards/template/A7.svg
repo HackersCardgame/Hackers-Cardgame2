@@ -114,11 +114,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.9807995"
-     inkscape:cx="139.84252"
-     inkscape:cy="198.4252"
+     inkscape:zoom="5.602547"
+     inkscape:cx="57.037722"
+     inkscape:cy="294.40903"
      inkscape:document-units="mm"
-     inkscape:current-layer="g10775"
+     inkscape:current-layer="g1595-7"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -2199,6 +2199,51 @@
                x="43.183895"
                id="tspan10125"
                sodipodi:role="line">✚</tspan></text>
+        </g>
+      </g>
+      <g
+         style="display:none"
+         inkscape:label="medic"
+         id="g12278"
+         inkscape:groupmode="layer">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+           x="15.253086"
+           y="5.4668441"
+           id="text12282"><tspan
+             sodipodi:role="line"
+             id="tspan12280"
+             x="15.253086"
+             y="8.5881004"
+             style="font-size:7.05555534px;fill:#ffffff;stroke-width:0.26458332" /></text>
+        <g
+           transform="matrix(1.5348387,0,0,1.5348956,-9.0259323,18.198173)"
+           style="display:inline"
+           id="g1595-7">
+          <g
+             id="g12311">
+            <rect
+               ry="2.6444263"
+               rx="2.6444263"
+               y="-6.9344864"
+               x="10.799096"
+               height="6.1830602"
+               width="6.1830602"
+               id="rect3952-3-5-2-83-5"
+               style="fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.26096317" />
+            <text
+               id="text4744-6-3-1-0-3"
+               y="-2.6877241"
+               x="14.018857"
+               style="font-style:normal;font-weight:normal;font-size:4.46793413px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.23439108"
+               xml:space="preserve"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.92234564px;font-family:Symbola;-inkscape-font-specification:'Symbola Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.23439108"
+                 y="-2.6877241"
+                 x="14.018857"
+                 id="tspan4746-7-5-5-1-5"
+                 sodipodi:role="line">☤</tspan></text>
+          </g>
         </g>
       </g>
       <g
