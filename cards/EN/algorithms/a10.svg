@@ -73,10 +73,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2"
-     inkscape:cx="141.44386"
-     inkscape:cy="159.10061"
+     inkscape:cx="181.44386"
+     inkscape:cy="199.10061"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3079"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="960"
      inkscape:window-height="1016"
@@ -91,7 +91,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -604,11 +604,13 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara17275">Witchcraft: tell the computer to define an object, which is a single element (a12) where the possible values are defined and where to store it in Memory (see also <flowSpan
-   style="-inkscape-font-specification:'sans-serif Bold';font-family:sans-serif;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal"
-   id="flowSpan19755">struct</flowSpan> / C++ ) excuse the</flowPara><flowPara
+         id="flowPara9806">Tell the computer to define an object, which is a element (a12) where the possible values are defined and and stored it in Memory (see also <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+   id="flowSpan19755">struct</flowSpan> / C++ ) but there are also &quot;functions&quot; that are called &quot;methods&quot;. A class/members/methods can be public, protected and private. There are</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara19419">german, no time to change</flowPara></flowRoot>    <text
+         id="flowPara9812">static members/methods </flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara19419" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
