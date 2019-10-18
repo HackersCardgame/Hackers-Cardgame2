@@ -106,8 +106,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.0000001"
-     inkscape:cx="166.73866"
-     inkscape:cy="165.96953"
+     inkscape:cx="144.36617"
+     inkscape:cy="163.51966"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
@@ -124,12 +124,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     style="display:none"
+     style="display:inline"
      transform="translate(0,-192)"
      id="g2897"
      inkscape:groupmode="layer"
@@ -142,14 +142,14 @@
        height="93.298027"
        width="63.298035"
        id="rect2895"
-       style="opacity:0.93999999;fill:#ffd5d5;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:0.93999999;fill:#e9b0dd;fill-opacity:0.99607843;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
      inkscape:label="bodyBlue"
      inkscape:groupmode="layer"
      id="g3079"
      transform="translate(0,-192)"
-     style="display:inline">
+     style="display:none">
     <rect
        style="opacity:0.93999999;fill:#afdde9;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect3077"
@@ -184,21 +184,19 @@
        xml:space="preserve"
        id="flowRoot3256"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,5.2916669)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,0,2.1166667)"><flowRegion
          id="flowRegion3258"><rect
            id="rect3260"
            width="214.25336"
            height="152.02795"
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
-         id="flowPara3350"
-         style="text-align:justify;text-anchor:start">Evil Systems like the CIA or older people tend to try to separate eg. left-wing from right-wing or christianity from islam from judaism and tries to make them fight each other while the older generation of both sides takes theirs goods. maybe we should warn the yougner with the message: <flowSpan
+         style="text-align:justify;text-anchor:start"
+         id="flowPara2622">Evil Systems, or better some few people in the CIA and some older people tend to try to separate society eg. left-wing from right-wing or christianity from islam from judaism, skin color, ... some people try to make them fight each other while the same people that made them fight each other of both sides takes their goods. Maybe we should warn the yougner with the message: <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-   id="flowSpan2626">COEXIST</flowSpan>, me as a christian for example learned a lot from Islam or jewish culture</flowPara><flowPara
+   id="flowSpan2626">COEXIST</flowSpan>, me as a christian for example learned a lot from Islamic or jewish culture. Notice for many people today science is also some sort of religion.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara2622" /><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara2624">They maybe would want to distroy this card that they can play on this dirthy game, so we please all religions to protect this card</flowPara></flowRoot>    <text
+         id="flowPara2624">Those people who make profit out of wars would maybe want to distroy this card so that they can play on this dirthy game. I please all religions to distribute and protect this sort of COEXIST cards.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
@@ -223,7 +221,7 @@
          id="flowPara3328"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Inventor:</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:2.11666684px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       style="font-style:normal;font-weight:normal;font-size:2.11666679px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="24.321527"
        y="57.137398"
        id="text3356"><tspan
@@ -231,7 +229,7 @@
          x="24.321527"
          y="57.137398"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ff0000;stroke-width:0.26458332"
-         id="tspan3376">Vergleichende Religionswissenschaften</tspan></text>
+         id="tspan3376">comparative religion sciences</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -379,7 +377,7 @@
        inkscape:groupmode="layer"
        id="g2959"
        inkscape:label="barPink"
-       style="display:none">
+       style="display:inline">
       <rect
          style="fill:#ff5555;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
          id="rect2957"
@@ -391,7 +389,7 @@
          ry="4.5458832" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="barTuerkies"
        id="g3071"
        inkscape:groupmode="layer">
