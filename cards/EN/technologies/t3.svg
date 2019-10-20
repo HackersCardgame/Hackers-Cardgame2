@@ -109,7 +109,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9807995"
-     inkscape:cx="139.84252"
+     inkscape:cx="149.68703"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
@@ -203,12 +203,15 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara39694">Originally developed by Delgado, possibly been enhanced &quot;in secrecy&quot; since 70 Years, placed directly in the brain, and with software like OpenBCI and maybe Deep Learnign algorithms possibly recognizes even detaild thougths. (<flowSpan
    style="fill:#ff0000"
-   id="flowSpan6248">see Neuralink, Elon Musk, HoneyPot</flowSpan>) No matter how good the encryption would be, if wires are mede out of metallic wires all such devices would be vulnerable to side-channel attacks [fc = λ / n] if geometry if the wires are know and there is a transmitting device with enough power nearby. (dont see card t25, see t26 card) I tweeted to Elon Musk asking what he is going to do about this vulnerability, but he did not answer so far. Maybe just HoneyPot for older technologies, and maybe Hashtags are filtered</flowPara></flowRoot>    <text
+   id="flowSpan6248">see Neuralink, Elon Musk, HoneyPot</flowSpan>) No matter how good the encryption would be, if wires are mede out of metallic wires all such devices would be vulnerable to side-channel attacks [fc = λ / n] if geometry if the wires are know and there is a transmitting device with enough power nearby. (unsure if t25 or t26  or both cards) I tweeted to Elon Musk asking what he is going to do about this vulnerability, but he did not answer so far. Maybe just HoneyPot for older technologies, and maybe Hashtags are filtered.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
        y="63.840492"
-       id="text3266"><tspan
+       id="text3266"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/t3.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
          id="tspan3264"
          x="42.28204"
@@ -276,7 +279,10 @@
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="41.274994"
        y="68.222916"
-       id="text24848"><tspan
+       id="text24848"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/t3.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
          id="tspan24846"
          x="41.274994"
@@ -438,7 +444,7 @@
          width="62.100834"
          id="rect3069"
          style="fill:#00aa88;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
-         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/t20.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/t3.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
     </g>
