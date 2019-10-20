@@ -108,9 +108,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.935"
-     inkscape:cx="130.7151"
-     inkscape:cy="363.54412"
+     inkscape:zoom="1.9807995"
+     inkscape:cx="139.84252"
+     inkscape:cy="198.4252"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
@@ -127,7 +127,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -190,7 +190,7 @@
        xml:space="preserve"
        id="flowRoot3256"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,2.6458334)"
+       transform="matrix(0.26458333,0,0,0.26458333,0,2.1166667)"
        inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/t3.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
@@ -201,11 +201,9 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara35769">Originally developed by Delgado, now possibly been developed &quot;in secrecy&quot; since 60 Years, placed directly in the brain, and with software like OpenBCI and maybe Deep Learnign algorithms possibly recognizes even detaild thougths. No matter how good the encryption would be, if wires are mede out of metallic wires such devices would all be vulnerable to side channel attacks [fc = λ / 2] if geometry if the wires are know and there is a device with enough power nearby.</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara39692" /><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara39694">I tweeted to Elon Musk asking what he is going to do about this vulnerability in Neuralink, but he did not answer so far. Maybe Neuralink is just a honeypot for older technologies, and maybe Hashtags are filtered</flowPara></flowRoot>    <text
+         id="flowPara39694">Originally developed by Delgado, possibly been enhanced &quot;in secrecy&quot; since 70 Years, placed directly in the brain, and with software like OpenBCI and maybe Deep Learnign algorithms possibly recognizes even detaild thougths. (<flowSpan
+   style="fill:#ff0000"
+   id="flowSpan6248">see Neuralink, Elon Musk, HoneyPot</flowSpan>) No matter how good the encryption would be, if wires are mede out of metallic wires all such devices would be vulnerable to side-channel attacks [fc = λ / n] if geometry if the wires are know and there is a transmitting device with enough power nearby. (dont see card t25, see t26 card) I tweeted to Elon Musk asking what he is going to do about this vulnerability, but he did not answer so far. Maybe just HoneyPot for older technologies, and maybe Hashtags are filtered</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
@@ -283,7 +281,7 @@
          id="tspan24846"
          x="41.274994"
          y="71.34417"
-         style="stroke-width:0.26458332"></tspan></text>
+         style="stroke-width:0.26458332" /></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -396,7 +394,7 @@
          ry="4.5458832" />
     </g>
     <g
-       style="display:inline"
+       style="display:none"
        inkscape:label="barRed"
        id="g2901"
        inkscape:groupmode="layer"
@@ -427,8 +425,8 @@
          ry="4.5458832" />
     </g>
     <g
-       style="display:none"
-       inkscape:label="barTuerkies"
+       style="display:inline"
+       inkscape:label="aquamarin"
        id="g3071"
        inkscape:groupmode="layer">
       <rect
