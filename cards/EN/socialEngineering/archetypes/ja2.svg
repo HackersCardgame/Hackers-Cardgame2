@@ -10,14 +10,14 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="74mm"
-   height="105mm"
-   viewBox="0 0 74 105"
+   width="69.795418mm"
+   height="99.795418mm"
+   viewBox="0 0 69.795418 99.795418"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="ja2.svg"
-   enable-background="new">
+   style="enable-background:new">
   <defs
      id="defs2">
     <clipPath
@@ -40,7 +40,7 @@
          id="feBlend1980" />
     </filter>
     <filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Blur"
        id="filter2482">
       <feGaussianBlur
@@ -114,17 +114,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0947215"
-     inkscape:cx="128.1974"
-     inkscape:cy="111.74961"
+     inkscape:zoom="2.189443"
+     inkscape:cx="51.633759"
+     inkscape:cy="93.990815"
      inkscape:document-units="mm"
      inkscape:current-layer="g29667"
      showgrid="false"
-     inkscape:window-width="960"
+     inkscape:window-width="1920"
      inkscape:window-height="1016"
-     inkscape:window-x="960"
+     inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -133,13 +133,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      style="display:inline"
-     transform="translate(0,-192)"
+     transform="translate(-2.1022903,-194.60229)"
      id="g2897"
      inkscape:groupmode="layer"
      inkscape:label="bodyRed">
@@ -151,13 +151,16 @@
        height="93.298027"
        width="63.298035"
        id="rect2895"
-       style="opacity:0.93999999;fill:#e9afdd;fill-opacity:0.94117647;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="opacity:0.93999999;fill:#e9afdd;fill-opacity:0.94117647;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001" />
   </g>
   <g
      inkscape:label="bodyNeutral"
      inkscape:groupmode="layer"
      id="g18358"
-     transform="translate(0,-192)"
+     transform="translate(-2.1022903,-194.60229)"
      style="display:none">
     <rect
        style="opacity:0.93999999;fill:#dee3db;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
@@ -174,7 +177,7 @@
   </g>
   <g
      style="display:none"
-     transform="translate(0,-192)"
+     transform="translate(-2.1022903,-194.60229)"
      id="g39605"
      inkscape:groupmode="layer"
      inkscape:label="bodyGreen">
@@ -192,7 +195,7 @@
      inkscape:label="bodyBlue"
      inkscape:groupmode="layer"
      id="g3079"
-     transform="translate(0,-192)"
+     transform="translate(-2.1022903,-194.60229)"
      style="display:none">
     <rect
        style="opacity:0.93999999;fill:#afdde9;fill-opacity:1;stroke:none;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
@@ -206,7 +209,7 @@
   </g>
   <g
      style="display:none"
-     transform="translate(0,-192)"
+     transform="translate(-2.1022903,-194.60229)"
      id="g3083"
      inkscape:groupmode="layer"
      inkscape:label="bodyYellow">
@@ -224,7 +227,8 @@
      inkscape:groupmode="layer"
      id="layer26"
      inkscape:label="text"
-     style="display:none">
+     style="display:none"
+     transform="translate(-2.1022903,-2.6022903)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3256"
@@ -299,13 +303,17 @@
      style="display:inline"
      inkscape:label="textArchetype"
      id="g29667"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     transform="translate(-2.1022903,-2.6022903)">
     <text
        id="text29649"
        y="63.840492"
        x="42.28204"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
          style="stroke-width:0.26458332"
          y="66.961746"
          x="42.28204"
@@ -316,7 +324,7 @@
        id="flowRoot3256-6"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,-0.02945736,2.2000515)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion3258-1"><rect
@@ -364,12 +372,12 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara31199">Military Background             ☆☆☆☆☆  (0/5)</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
-         id="flowPara31201">Project Problems to Patients    ☆☆☆☆☆  (1/5)</flowPara></flowRoot>    <flowRoot
+         id="flowPara31201">Project Problems to Patients    ☆☆☆☆☆  (0/5)</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3322-3"
        style="font-style:normal;font-weight:normal;font-size:10.66666698px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,3.15105,1.6121945)"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
          id="flowRegion3324-2"><rect
@@ -385,7 +393,7 @@
        x="57.373508"
        y="57.384331"
        id="text3356-1-1"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -399,7 +407,7 @@
        x="8.4216328"
        y="75.117104"
        id="text31209"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -413,7 +421,7 @@
        x="8.4031038"
        y="81.001663"
        id="text31209-3"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/p2.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><tspan
          sodipodi:role="line"
@@ -426,7 +434,8 @@
      inkscape:groupmode="layer"
      id="g15789"
      inkscape:label="textRole"
-     style="display:none">
+     style="display:none"
+     transform="translate(-2.1022903,-2.6022903)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -559,7 +568,8 @@
      inkscape:groupmode="layer"
      id="layer22"
      inkscape:label="box"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-2.1022903,-2.6022903)">
     <g
        inkscape:groupmode="layer"
        id="layer24"
@@ -573,7 +583,7 @@
          y="15.646223"
          rx="0"
          ry="0"
-         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ma11.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
       <image
@@ -584,7 +594,10 @@
          style="display:inline;image-rendering:optimizeSpeed;enable-background:new"
          preserveAspectRatio="none"
          height="46.309349"
-         width="62.817776" />
+         width="62.817776"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -600,7 +613,7 @@
          y="15.646222"
          rx="4.4987354"
          ry="0"
-         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ma11.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001" />
     </g>
@@ -609,7 +622,7 @@
      inkscape:label="size"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-192)"
+     transform="translate(-2.1022903,-194.60229)"
      style="display:inline">
     <rect
        style="opacity:0.93999999;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.701967;stroke-miterlimit:4;stroke-dasharray:none"
@@ -620,7 +633,7 @@
        y="197.85098"
        rx="2.6935785"
        ry="2.9227133"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ma11.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -628,7 +641,8 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="frame"
-     style="display:inline;filter:url(#filter1978)">
+     style="display:inline;filter:url(#filter1978)"
+     transform="translate(-2.1022903,-2.6022903)">
     <rect
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect10-3"
@@ -638,7 +652,7 @@
        y="2.6522903"
        rx="3.9126155"
        ry="4.1126561"
-       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ma11.png"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001" />
   </g>
@@ -646,7 +660,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="header"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-2.1022903,-2.6022903)">
     <g
        inkscape:groupmode="layer"
        id="layer6"
@@ -690,7 +705,10 @@
          height="12.847491"
          width="62.100834"
          id="rect2761"
-         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
+         inkscape:export-xdpi="363.92001"
+         inkscape:export-ydpi="363.92001" />
     </g>
     <g
        style="display:none"
@@ -825,11 +843,11 @@
        inkscape:label="headerTextSans">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.93888889px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
+         style="font-style:normal;font-weight:normal;font-size:4.93888903px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
          x="42.003956"
          y="14.03496"
          id="text17175"
-         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ma11.png"
+         inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
@@ -2679,7 +2697,10 @@
         <g
            style="display:inline;enable-background:new"
            id="g16260"
-           transform="matrix(0.37219374,0,0,0.37219374,-109.1141,-295.17196)">
+           transform="matrix(0.37219374,0,0,0.37219374,-109.1141,-295.17196)"
+           inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
+           inkscape:export-xdpi="363.92001"
+           inkscape:export-ydpi="363.92001">
           <g
              id="g3242-35"
              transform="translate(679.28406,256.72181)">
@@ -2874,7 +2895,7 @@
            width="9.301053"
            id="rect917-6"
            style="display:inline;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
-           inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ma11.png"
+           inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/ja2.png"
            inkscape:export-xdpi="363.92001"
            inkscape:export-ydpi="363.92001" />
       </g>
@@ -2884,7 +2905,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="flag"
-     style="display:none">
+     style="display:none"
+     transform="translate(-2.1022903,-2.6022903)">
     <path
        d="m 20.158967,45.552873 c 0,0 -10.4578147,0 -10.4578147,0 0,0 0,-6.971818 0,-6.971818 0,0 10.4578147,0 10.4578147,0 0,0 0,6.971818 0,6.971818 z"
        style="display:inline;fill:#1f5ab1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.26458332;enable-background:new"
