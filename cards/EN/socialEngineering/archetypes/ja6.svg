@@ -114,9 +114,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0947215"
-     inkscape:cx="99.507672"
-     inkscape:cy="87.216869"
+     inkscape:zoom="0.774085"
+     inkscape:cx="82.893574"
+     inkscape:cy="280.27364"
      inkscape:document-units="mm"
      inkscape:current-layer="g29667"
      showgrid="false"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -308,7 +308,10 @@
        y="63.840492"
        x="42.28204"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       xml:space="preserve"><tspan
+       xml:space="preserve"
+       inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/ja6.png"
+       inkscape:export-xdpi="363.92001"
+       inkscape:export-ydpi="363.92001"><tspan
          style="stroke-width:0.26458332"
          y="66.961746"
          x="42.28204"
@@ -341,9 +344,9 @@
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
    id="flowSpan54650">O</flowSpan> Openness:           medium</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
-         id="flowPara29149"><flowSpan
+         id="flowPara12187"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
-   id="flowSpan54656">C</flowSpan> Conscienttiousness: medium</flowPara><flowPara
+   id="flowSpan54656">C</flowSpan> Conscientiousness:  medium</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:monospace;-inkscape-font-specification:monospace;text-align:justify;text-anchor:start"
          id="flowPara9876"><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:monospace;-inkscape-font-specification:'monospace Bold'"
@@ -842,18 +845,18 @@
        inkscape:label="headerTextSans">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:4.93888889px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
+         style="font-style:normal;font-weight:normal;font-size:4.58611107px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
          x="42.003956"
-         y="14.03496"
+         y="13.505794"
          id="text17175"
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame2/png/EN/ja6.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            sodipodi:role="line"
            x="42.003956"
-           y="14.03496"
+           y="13.505794"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.3224555"
-           id="tspan29635">Moher Archetype</tspan></text>
+           id="tspan29635">Moher-Archetype</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
